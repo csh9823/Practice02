@@ -10,7 +10,7 @@ public class Ex08 {
 		
 		Scanner sc= new Scanner(System.in);
 		
-		System.out.println("숫자 2개를 입력해주세요");
+		System.out.println("숫자 3개를 입력해주세요");
 		System.out.print("숫자1: ");
 		num1 = sc.nextInt();
 		System.out.print("숫자2: ");
